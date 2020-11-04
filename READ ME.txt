@@ -1,6 +1,10 @@
 Youtube video of the application running- 
 https://youtu.be/JY5hbcWtfco
 
+Note:
+I have noticed that some files werent uploaded to github like the Textfiles so I did add them manually, hopefully it did add to help the program run smoothly otherwise I have
+uploaded the project onto teams in a winrar.
+
 Fixes I made to TASK 1 and TASK 2
 ...................................//////...........................................
 TASK 1 -
