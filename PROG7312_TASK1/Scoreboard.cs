@@ -40,6 +40,10 @@ namespace PROG7312_TASK1
             {
                 scoreboard = "IdentifyingAreasScore.txt";
             }
+            else if (rbtnFind.Checked == true)
+            {
+                scoreboard = "FindCallNumbers.txt";
+            }
 
             int num = 0;
             using (StreamReader sr = File.OpenText(scoreboard))

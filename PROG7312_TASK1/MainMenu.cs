@@ -38,7 +38,10 @@ namespace PROG7312_TASK1
             }
             else if (rbtnFindingCallNumbers.Checked)
             {
-
+                form = new FindCallNumbers();
+                this.Hide();
+                form.ShowDialog();
+                this.Close();
             }
             else
             {

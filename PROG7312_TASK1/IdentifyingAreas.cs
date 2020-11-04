@@ -245,7 +245,7 @@ namespace PROG7312_TASK1
 
 
             MessageBox.Show("Your scored: " + score+" out of 4");
-
+            clearLabels();
             try
             {
                 // Open the text file using a stream reader.
@@ -307,6 +307,21 @@ namespace PROG7312_TASK1
             {
                 return false;
             }
+        }
+
+        private void clearLabels()
+        {
+            lblDefinition1.Text = "A:";
+            lblDefinition2.Text = "B:";
+            lblDefinition3.Text = "C:";
+            lblDefinition4.Text = "D:";
+            lblDefinition5.Text = "E:";
+            lblDefinition6.Text = "F:";
+            lblDefinition7.Text = "G:";
+            lblTerm1.Text = "1:";
+            lblTerm2.Text = "2:";
+            lblTerm3.Text = "3:";
+            lblTerm4.Text = "4:";
         }
 
         private void btnScoreboard_Click(object sender, EventArgs e)

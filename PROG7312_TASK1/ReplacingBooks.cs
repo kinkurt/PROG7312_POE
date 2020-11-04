@@ -135,7 +135,9 @@ namespace PROG7312_TASK1
             List<string> userAns = lboxDisplay.Items.Cast<string>().ToList();
             List<string> OrderedAns = new List<string>();
             int num = 0, points = 0;
-            string check="";
+            string check="",tempPoints;
+            User user = new User();
+
 
             OrderedAns = userAns.OrderBy(q => q).ToList();
 
@@ -157,14 +159,24 @@ namespace PROG7312_TASK1
 
             
             MessageBox.Show("You scored: " + points.ToString());
+            if (points < 10 )
+            {
+                tempPoints = "0"+points.ToString();
+            }
+            else
+            {
+                tempPoints = points.ToString();
+            }
+            
 
             try
             {
                 // Open the text file using a stream reader.
                 using (StreamWriter sw = File.AppendText("Scoreboard.txt"))
                 {
+                    user.Username = txtbUser.Text;
                     // Read the stream as a string, and write the string to the console.
-                    sw.WriteLine(points.ToString()+" points - " +txtbUser.Text );
+                    sw.WriteLine(tempPoints + " points - " +user.Username);
                 }
             }
             catch (IOException ex)

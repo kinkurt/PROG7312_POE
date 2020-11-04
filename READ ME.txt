@@ -1,0 +1,36 @@
+Youtube video of the application running- 
+https://youtu.be/JY5hbcWtfco
+
+Fixes I made to TASK 1 and TASK 2
+...................................//////...........................................
+TASK 1 -
+Fixed the scoreboard problem with not loading in descending order by adding a zero if the score was less than 10.
+Added some OOP.
+
+TASK 2 - 
+Fixed the clear the form when the user is done with the questions.
+I had comments maybe they werent informative enough but I added some more.
+
+
+HOW TO RUN THE PROGRAM
+...................................//////...........................................
+Download Visual studio 2019.
+Download this application.
+Run Visual Studio 2019.
+Select - File - Open and select "Open/ Project or file" the project click load.
+Let the file load.
+Make sure the file has loaded correctly.
+Click the start button at the top of the screen it has a green play button next to it.
+Let the forms open up and load.
+Select the game you would like to play.
+In this case select the finding call numbers in options and click the Play button
+Enter your username. Click the start button.
+Try and beat the game.
+The user has to select the option where they think the option is best related to the answer.
+It is the Dewey Decimal call numbers that goes multilevel.
+The user can go indefinately as long as you are selecting the correct answer.
+The run will end when the user selects the wrong answer.
+Their score and name will be added to the scoreboard.
+This is my gamification for this project.
+
+

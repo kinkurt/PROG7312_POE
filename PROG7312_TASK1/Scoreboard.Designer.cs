@@ -32,23 +32,24 @@
             this.btnClose = new System.Windows.Forms.Button();
             this.lblScoreboard = new System.Windows.Forms.Label();
             this.gbSelect = new System.Windows.Forms.GroupBox();
-            this.rbtnReplacing = new System.Windows.Forms.RadioButton();
             this.rbtnIdentify = new System.Windows.Forms.RadioButton();
+            this.rbtnReplacing = new System.Windows.Forms.RadioButton();
             this.btnShow = new System.Windows.Forms.Button();
+            this.rbtnFind = new System.Windows.Forms.RadioButton();
             this.gbSelect.SuspendLayout();
             this.SuspendLayout();
             // 
             // lboxScoreboard
             // 
             this.lboxScoreboard.FormattingEnabled = true;
-            this.lboxScoreboard.Location = new System.Drawing.Point(12, 139);
+            this.lboxScoreboard.Location = new System.Drawing.Point(12, 173);
             this.lboxScoreboard.Name = "lboxScoreboard";
             this.lboxScoreboard.Size = new System.Drawing.Size(220, 290);
             this.lboxScoreboard.TabIndex = 0;
             // 
             // btnClose
             // 
-            this.btnClose.Location = new System.Drawing.Point(93, 435);
+            this.btnClose.Location = new System.Drawing.Point(93, 469);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(75, 23);
             this.btnClose.TabIndex = 1;
@@ -59,7 +60,7 @@
             // lblScoreboard
             // 
             this.lblScoreboard.AutoSize = true;
-            this.lblScoreboard.Location = new System.Drawing.Point(12, 123);
+            this.lblScoreboard.Location = new System.Drawing.Point(12, 157);
             this.lblScoreboard.Name = "lblScoreboard";
             this.lblScoreboard.Size = new System.Drawing.Size(62, 13);
             this.lblScoreboard.TabIndex = 2;
@@ -67,14 +68,25 @@
             // 
             // gbSelect
             // 
+            this.gbSelect.Controls.Add(this.rbtnFind);
             this.gbSelect.Controls.Add(this.rbtnIdentify);
             this.gbSelect.Controls.Add(this.rbtnReplacing);
             this.gbSelect.Location = new System.Drawing.Point(15, 13);
             this.gbSelect.Name = "gbSelect";
-            this.gbSelect.Size = new System.Drawing.Size(217, 76);
+            this.gbSelect.Size = new System.Drawing.Size(217, 92);
             this.gbSelect.TabIndex = 3;
             this.gbSelect.TabStop = false;
             this.gbSelect.Text = "Select Scoreboard";
+            // 
+            // rbtnIdentify
+            // 
+            this.rbtnIdentify.AutoSize = true;
+            this.rbtnIdentify.Location = new System.Drawing.Point(7, 39);
+            this.rbtnIdentify.Name = "rbtnIdentify";
+            this.rbtnIdentify.Size = new System.Drawing.Size(103, 17);
+            this.rbtnIdentify.TabIndex = 1;
+            this.rbtnIdentify.Text = "Identifying Areas";
+            this.rbtnIdentify.UseVisualStyleBackColor = true;
             // 
             // rbtnReplacing
             // 
@@ -88,19 +100,9 @@
             this.rbtnReplacing.Text = "Replacing Books";
             this.rbtnReplacing.UseVisualStyleBackColor = true;
             // 
-            // rbtnIdentify
-            // 
-            this.rbtnIdentify.AutoSize = true;
-            this.rbtnIdentify.Location = new System.Drawing.Point(7, 39);
-            this.rbtnIdentify.Name = "rbtnIdentify";
-            this.rbtnIdentify.Size = new System.Drawing.Size(103, 17);
-            this.rbtnIdentify.TabIndex = 1;
-            this.rbtnIdentify.Text = "Identifying Areas";
-            this.rbtnIdentify.UseVisualStyleBackColor = true;
-            // 
             // btnShow
             // 
-            this.btnShow.Location = new System.Drawing.Point(15, 96);
+            this.btnShow.Location = new System.Drawing.Point(15, 130);
             this.btnShow.Name = "btnShow";
             this.btnShow.Size = new System.Drawing.Size(75, 23);
             this.btnShow.TabIndex = 4;
@@ -108,11 +110,21 @@
             this.btnShow.UseVisualStyleBackColor = true;
             this.btnShow.Click += new System.EventHandler(this.btnShow_Click);
             // 
+            // rbtnFind
+            // 
+            this.rbtnFind.AutoSize = true;
+            this.rbtnFind.Location = new System.Drawing.Point(7, 62);
+            this.rbtnFind.Name = "rbtnFind";
+            this.rbtnFind.Size = new System.Drawing.Size(110, 17);
+            this.rbtnFind.TabIndex = 2;
+            this.rbtnFind.Text = "Find Call Numbers";
+            this.rbtnFind.UseVisualStyleBackColor = true;
+            // 
             // Scoreboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(262, 484);
+            this.ClientSize = new System.Drawing.Size(255, 506);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.gbSelect);
             this.Controls.Add(this.lblScoreboard);
@@ -138,5 +150,6 @@
         private System.Windows.Forms.RadioButton rbtnIdentify;
         private System.Windows.Forms.RadioButton rbtnReplacing;
         private System.Windows.Forms.Button btnShow;
+        private System.Windows.Forms.RadioButton rbtnFind;
     }
 }

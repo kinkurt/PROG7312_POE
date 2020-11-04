@@ -62,7 +62,6 @@
             // rbtnFindingCallNumbers
             // 
             this.rbtnFindingCallNumbers.AutoSize = true;
-            this.rbtnFindingCallNumbers.Enabled = false;
             this.rbtnFindingCallNumbers.Location = new System.Drawing.Point(32, 95);
             this.rbtnFindingCallNumbers.Name = "rbtnFindingCallNumbers";
             this.rbtnFindingCallNumbers.Size = new System.Drawing.Size(110, 17);
