@@ -1,0 +1,239 @@
+000 Computer science, information & general works
+010 Bibliographies
+020 Library & information sciences
+030 Encyclopedias & books of facts
+040 [Unassigned]
+050 Magazines, journals & serials
+060 Associations, organizations & museums
+070 News media, journalism & publishing
+071 Newspapers in North America
+072 Newspapers in British Isles; in England
+073 Newspapers in central Europe; in Germany
+074 Newspapers in France & Monaco
+075 Newspapers in Italy & adjacent islands
+076 In Iberian Peninsula & adjacent islands
+077 Newspapers in eastern Europe; in Russia
+078 Newspapers in Scandinavia
+079 Newspapers in other geographic areas
+080 Quotations
+090 Manuscripts & rare books
+091 Manuscripts
+092 Block books
+093 Incunabula
+094 Printed books
+095 Books notable for bindings
+096 Books notable for illustrations
+097 Books notable for ownership or origin
+098 Prohibited works, forgeries & hoaxes
+099 Books notable for format
+ 
+100 Philosophy & psychology
+110 Metaphysics
+120 Epistemology
+130 Parapsychology & occultism
+140 Philosophical schools of thought
+150 Psychology
+160 Logic
+170 Ethics
+180 Ancient, medieval & eastern philosophy
+181 Eastern philosophy
+182 Pre-Socratic Greek philosophies
+183 Socratic & related philosophies
+184 Platonic philosophy
+185 Aristotelian philosophy
+186 Skeptic & Neoplatonic philosophies
+187 Epicurean philosophy
+188 Stoic philosophy
+189 Medieval western philosophy
+190 Modern western philosophy
+ 
+200 Religion
+210 Philosophy & theory of religion
+220 The Bible
+230 Christianity & Christian theology
+240 Christian practice & observance
+250 Christian pastoral practice & religious orders
+260 Christian organization, social work & worship
+260 Social & ecclesiastical theology
+261 Social theology
+262 Ecclesiology
+263 Days, times & places of observance
+264 Public worship
+265 Sacraments, other rites & acts
+266 Missions
+267 Associations for religious work
+268 Religious education
+269 Spiritual renewal
+270 History of Christianity
+280 Christian denominations
+290 Other religions
+ 
+300 Social sciences, sociology & anthropology
+310 Statistics
+320 Political science
+330 Economics
+331 Labor economics
+332 Financial economics
+333 Economics of land & energy
+334 Cooperatives
+335 Socialism & related systems
+336 Public finance
+337 International economics
+338 Production
+339 Macroeconomics & related topics
+340 Law
+350 Public administration & military science
+351 Public administration
+352 General considerations of public administration
+353 Specific fields of public administration
+354 Administration of economy & environment
+355 Military science
+356 Infantry forces & warfare
+357 Mounted forces & warfare
+358 Air & other specialized forces
+359 Sea forces & warfare 
+360 Social problems & social services
+370 Education
+380 Commerce, communications & transportation
+390 Customs, etiquette & folklore
+
+400 Language
+401 Philosophy & theory
+402 Miscellany
+403 Dictionaries & encyclopedias
+404 Special topics
+405 Serial publications
+406 Organizations & management
+407 Education, research & related topics
+408 Kinds of persons treatment
+409 Geographic & persons treatment
+410 Linguistics
+420 English & Old English languages
+430 German & related languages
+440 French & related languages
+450 Italian, Romanian & related languages
+460 Spanish & Portuguese languages
+470 Latin & Italic languages
+480 Classical & modern Greek languages
+490 Other languages
+ 
+500 Science
+510 Mathematics
+520 Astronomy
+530 Physics
+540 Chemistry
+550 Earth sciences & geology
+560 Fossils & prehistoric life
+560 Paleontology; paleozoology
+561 Paleobotany; fossil microorganisms
+562 Fossil invertebrates
+563 Fossil marine & seashore invertebrates
+564 Fossil mollusks & molluscoids
+565 Fossil arthropods
+566 Fossil chordates
+567 Fossil cold-blooded vertebrates; fossil fishes
+568 Fossil birds
+569 Fossil mammals
+570 Life sciences; biology
+580 Plants (Botany)
+590 Animals (Zoology)
+ 
+600 Technology
+610 Medicine & health
+620 Engineering
+630 Agriculture
+640 Home & family management
+650 Management & public relations
+660 Chemical engineering
+670 Manufacturing
+671 Metalworking & primary metal products
+672 Iron, steel & other iron alloys
+673 Nonferrous metals
+674 Lumber processing, wood products & cork
+675 Leather & fur processing
+676 Pulp & paper technology
+677 Textiles
+678 Elastomers & elastomer products
+679 Other products of specific materials
+680 Manufacture for specific uses
+690 Building & construction
+ 
+700 Arts & recreation
+701 Philosophy of fine & decorative arts
+702 Miscellany of fine & decorative arts
+703 Dictionaries of fine & decorative arts
+704 Special topics in fine & decorative arts
+705 Serial publications of fine & decorative arts
+706 Organizations & management
+707 Education, research & related topics
+708 Galleries, museums & private collections
+709 Historical, geographic & persons treatment 
+710 Landscaping & area planning
+720 Architecture
+730 Sculpture, ceramics & metalwork
+740 Drawing & decorative arts
+750 Painting
+760 Graphic arts
+770 Photography & computer art
+780 Music
+790 Sports, games & entertainment
+790 Recreational & performing arts
+791 Public performances
+792 Stage presentations
+793 Indoor games & amusements
+794 Indoor games of skill
+795 Games of chance
+796 Athletic & outdoor sports & games
+797 Aquatic & air sports
+798 Equestrian sports & animal racing
+799 Fishing, hunting & shooting
+ 
+800 Literature
+810 American literature in English
+820 English & Old English literatures
+830 German & related literatures
+840 French & related literatures
+850 Italian, Romanian & related literatures
+860 Spanish & Portuguese literatures
+870 Latin & Italic literatures
+880 Classical & modern Greek literatures
+881 Classical Greek poetry
+882 Classical Greek dramatic poetry & drama
+883 Classical Greek epic poetry & fiction
+884 Classical Greek lyric poetry
+885 Classical Greek speeches
+886 Classical Greek letters
+887 Classical Greek humor & satire
+888 Classical Greek miscellaneous writings
+889 Modern Greek literature
+890 Other literatures
+ 
+900 History & geography
+901 Philosophy & theory
+902 Miscellany
+903 Dictionaries & encyclopedias
+904 Collected accounts of events
+905 Serial publications
+906 Organizations & management
+907 Education, research & related topics
+908 Kinds of persons treatment
+909 World history
+910 Geography & travel
+920 Biography & genealogy
+930 History of ancient world (to ca. 499)
+940 History of Europe
+950 History of Asia
+960 History of Africa
+960 History of Africa
+961 Tunisia & Libya
+962 Egypt & Sudan
+963 Ethiopia & Eritrea
+964 Northwest African coast & offshore islands
+965 Algeria
+966 West Africa & offshore islands
+967 Central Africa & offshore islands
+968 Southern Africa; Republic of South Africa
+969 South Indian Ocean islands
+970 History of North America
+980 History of South America
+990 History of other areas
